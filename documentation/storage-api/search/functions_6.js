@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['sanitize',['sanitize',['../class_s_k_nvme_device.html#af316f8694e0ae08aa1f0b9818b16ac8d',1,'SKNvmeDevice']]],
+  ['scandevice',['scanDevice',['../class_s_k_storage_device_utils.html#ac673b21e97b12c4003caaa5d5aadcc38',1,'SKStorageDeviceUtils']]],
+  ['scandevices',['scanDevices',['../class_s_k_storage_device_utils.html#aaf5f22d17c5dfca97fc977769cbe5cf2',1,'SKStorageDeviceUtils']]],
+  ['scsiinquiry',['scsiInquiry',['../class_s_k_scsi_device.html#a98d2bc36a8b7b85864d1daa5afe9ef06',1,'SKScsiDevice']]],
+  ['scsiread10',['scsiRead10',['../class_s_k_scsi_device.html#a0363920c1cdbc246d61e12403e15e99b',1,'SKScsiDevice']]],
+  ['scsiread12',['scsiRead12',['../class_s_k_scsi_device.html#a1214169c8a01bd22aadad473a1fb14f6',1,'SKScsiDevice']]],
+  ['scsiread16',['scsiRead16',['../class_s_k_scsi_device.html#a92efbf29743d0d887de116645e4f7985',1,'SKScsiDevice']]],
+  ['scsiread6',['scsiRead6',['../class_s_k_scsi_device.html#a1c5e6955f64d8973543d6c603f37388a',1,'SKScsiDevice']]],
+  ['scsireadcapacity',['scsiReadCapacity',['../class_s_k_scsi_device.html#aedda2dcbac75d9424b0b5690d33d1710',1,'SKScsiDevice']]],
+  ['scsitrim',['scsiTrim',['../class_s_k_hyp_device.html#ac77ce95c77d03ef0471e23a309456952',1,'SKHypDevice']]],
+  ['scsiwrite10',['scsiWrite10',['../class_s_k_scsi_device.html#a91d7b443f9b74c31848ed491614f86e1',1,'SKScsiDevice']]],
+  ['scsiwrite12',['scsiWrite12',['../class_s_k_scsi_device.html#a99ed893125e5576a78de96afa3d5403c',1,'SKScsiDevice']]],
+  ['scsiwrite16',['scsiWrite16',['../class_s_k_scsi_device.html#a0c85b8094d016fc02f8aba25c97bd0b4',1,'SKScsiDevice']]],
+  ['scsiwrite6',['scsiWrite6',['../class_s_k_scsi_device.html#a2bb651b5114d3e044ddd54605ef1d5ba',1,'SKScsiDevice']]],
+  ['setdatabuffersize',['SetDataBufferSize',['../class_s_k_aligned_buffer.html#a2e82a7203589045730ad594ade42c1dc',1,'SKAlignedBuffer']]],
+  ['setquickerasemethod',['setQuickEraseMethod',['../class_s_k_ata_device.html#a0ebe0511f889093948ce52f754b71f61',1,'SKAtaDevice']]],
+  ['skalignedbuffer',['SKAlignedBuffer',['../class_s_k_aligned_buffer.html#af03e230a7580d67486761b2cd58cf3c1',1,'SKAlignedBuffer']]],
+  ['skatadevice',['SKAtaDevice',['../class_s_k_ata_device.html#a5b6ab09a5eff67145edabdf17bdfb4f5',1,'SKAtaDevice::SKAtaDevice(const std::string &amp;devicePath, const DeviceHandle &amp;deviceHandle)'],['../class_s_k_ata_device.html#ae1f63d7ef0bdd34e51bf3abc804c96a7',1,'SKAtaDevice::SKAtaDevice(const SKDeviceType &amp;type, const std::string &amp;devicePath)']]],
+  ['skhypdevice',['SKHypDevice',['../class_s_k_hyp_device.html#abfcf3f12dd7563338efab97eb30ef6eb',1,'SKHypDevice']]],
+  ['sknvmedevice',['SKNvmeDevice',['../class_s_k_nvme_device.html#a588ee4ebebf241a7f709f795666bedc4',1,'SKNvmeDevice']]],
+  ['sksatdevice',['SKSatDevice',['../class_s_k_sat_device.html#a681b32efa3705161ad5b265dc3403b70',1,'SKSatDevice']]],
+  ['skscsidevice',['SKScsiDevice',['../class_s_k_scsi_device.html#a1818df1bef9972e72a33766ac0c9bb1d',1,'SKScsiDevice']]],
+  ['skstoragedevice',['SKStorageDevice',['../class_s_k_storage_device.html#a56244b6e021923ef7f38b1ceb0bf3463',1,'SKStorageDevice']]]
+];

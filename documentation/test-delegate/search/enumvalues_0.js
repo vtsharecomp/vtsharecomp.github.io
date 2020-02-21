@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['skterrorcommandcompletiontimeout',['SKTErrorCommandCompletionTimeOut',['../_storage_kit_test_delegate_8h.html#a143844aea21c1ac420c1d0307a69deb7af0c8aa0307e4c88c8e4792978618c154',1,'StorageKitTestDelegate.h']]],
+  ['skterrorcommandfailed',['SKTErrorCommandFailed',['../_storage_kit_test_delegate_8h.html#a143844aea21c1ac420c1d0307a69deb7ac0a467a4248fe9f3b45cc0213fe023e6',1,'StorageKitTestDelegate.h']]],
+  ['skterrordevicefrozen',['SKTErrorDeviceFrozen',['../_storage_kit_test_delegate_8h.html#a143844aea21c1ac420c1d0307a69deb7a76622e15224a2b167321685a5805476c',1,'StorageKitTestDelegate.h']]],
+  ['skterrordeviceinfonull',['SKTErrorDeviceInfoNull',['../_storage_kit_test_delegate_8h.html#a143844aea21c1ac420c1d0307a69deb7a92dbb37f86bc777662675b88e24729ec',1,'StorageKitTestDelegate.h']]],
+  ['skterrordevicetypeunsupported',['SKTErrorDeviceTypeUnsupported',['../_storage_kit_test_delegate_8h.html#a143844aea21c1ac420c1d0307a69deb7a280d2196b1ca919991fcffa210314b99',1,'StorageKitTestDelegate.h']]],
+  ['skterrordiagnostictestalreadystarted',['SKTErrorDiagnosticTestAlreadyStarted',['../_storage_kit_test_delegate_8h.html#a143844aea21c1ac420c1d0307a69deb7aec1b6ce6dcc6acb44485c1828ee3f82f',1,'StorageKitTestDelegate.h']]],
+  ['skterrordiagnostictestalreadystopped',['SKTErrorDiagnosticTestAlreadyStopped',['../_storage_kit_test_delegate_8h.html#a143844aea21c1ac420c1d0307a69deb7ae73d027284cba5eb2701b1ef9dbe78a7',1,'StorageKitTestDelegate.h']]],
+  ['skterrorlbaoutofrange',['SKTErrorLBAOutOfRange',['../_storage_kit_test_delegate_8h.html#a143844aea21c1ac420c1d0307a69deb7ace779e5e029657649f74e4f80b253488',1,'StorageKitTestDelegate.h']]],
+  ['skterrormaxpowerconsumptiontestalreadystarted',['SKTErrorMaxPowerConsumptionTestAlreadyStarted',['../_storage_kit_test_delegate_8h.html#a143844aea21c1ac420c1d0307a69deb7a33dc50efe56053fee861164be5f05438',1,'StorageKitTestDelegate.h']]],
+  ['skterrormaxpowerconsumptiontestalreadystopped',['SKTErrorMaxPowerConsumptionTestAlreadyStopped',['../_storage_kit_test_delegate_8h.html#a143844aea21c1ac420c1d0307a69deb7a0dd7380756de3222e9ec04cf4610771f',1,'StorageKitTestDelegate.h']]],
+  ['skterrorsectorcountoutofrange',['SKTErrorSectorCountOutOfRange',['../_storage_kit_test_delegate_8h.html#a143844aea21c1ac420c1d0307a69deb7a48279ffb638f291d8a2f49dea6da7844',1,'StorageKitTestDelegate.h']]],
+  ['skterrorsecuritylocked',['SKTErrorSecurityLocked',['../_storage_kit_test_delegate_8h.html#a143844aea21c1ac420c1d0307a69deb7a090a7845104b0a0d4279d3b38378bee5',1,'StorageKitTestDelegate.h']]],
+  ['skterrorstartingdiagnostictest',['SKTErrorStartingDiagnosticTest',['../_storage_kit_test_delegate_8h.html#a143844aea21c1ac420c1d0307a69deb7af3b7723933aaeae30afd4b937322e671',1,'StorageKitTestDelegate.h']]],
+  ['skterrorstartingmaxpowerconsumptiontest',['SKTErrorStartingMaxPowerConsumptionTest',['../_storage_kit_test_delegate_8h.html#a143844aea21c1ac420c1d0307a69deb7ac4c08b2c3d2fcec42855bf9914fffa45',1,'StorageKitTestDelegate.h']]],
+  ['skterrorstoppingdiagnostictest',['SKTErrorStoppingDiagnosticTest',['../_storage_kit_test_delegate_8h.html#a143844aea21c1ac420c1d0307a69deb7adaa821bec0d560353b82f0321b28adb9',1,'StorageKitTestDelegate.h']]],
+  ['skterrorstoppingmaxpowerconsumptiontest',['SKTErrorStoppingMaxPowerConsumptionTest',['../_storage_kit_test_delegate_8h.html#a143844aea21c1ac420c1d0307a69deb7af88e7247c702681c80d43c51390c3d8c',1,'StorageKitTestDelegate.h']]],
+  ['skterrorverifydata',['SKTErrorVerifyData',['../_storage_kit_test_delegate_8h.html#a143844aea21c1ac420c1d0307a69deb7a64ceb131e1e3aff8d8da0723c4481eca',1,'StorageKitTestDelegate.h']]],
+  ['sktlive',['SKTLive',['../_storage_kit_test_delegate_8h.html#a0bde7719e6307ceed4a51107ed3de2efaa0e040368edd0bd67a9337c02b7debe8',1,'StorageKitTestDelegate.h']]],
+  ['sktproduction',['SKTProduction',['../_storage_kit_test_delegate_8h.html#a0bde7719e6307ceed4a51107ed3de2efa95dc34b329a5b7690609f2ae26b8ed68',1,'StorageKitTestDelegate.h']]],
+  ['sktsucceeded',['SKTSucceeded',['../_storage_kit_test_delegate_8h.html#a143844aea21c1ac420c1d0307a69deb7a499afc62c1702b252418124a74074609',1,'StorageKitTestDelegate.h']]]
+];

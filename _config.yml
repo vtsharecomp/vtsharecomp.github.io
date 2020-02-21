@@ -1,0 +1,26 @@
+baseurl: ''
+exclude: ['README.md']
+permalink: pretty
+title: 'StorKit'
+
+collections:
+  documentation:
+    output: true
+    permalink: /documentation/:path/
+  license:
+    output: true
+    permalink: /license/:path/
+
+defaults:
+  - scope:
+      path: 'images'
+    values:
+      image: true
+
+sass:
+  style: compact # possible values: nested expanded compact compressed
+
+google_analytics_id: null
+
+plugins:
+  - jekyll-environment-variables
